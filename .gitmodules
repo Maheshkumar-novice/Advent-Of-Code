@@ -7,3 +7,6 @@
 [submodule "Advent-Of-Code-2021"]
 	path = Advent-Of-Code-2021
 	url = https://github.com/Maheshkumar-novice/Advent-Of-Code-2021
+[submodule "Advent-Of-Code-2022"]
+	path = Advent-Of-Code-2022
+	url = https://github.com/Maheshkumar-novice/Advent-Of-Code-2022
