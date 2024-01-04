@@ -4,6 +4,7 @@
 [submodule "Advent-Of-Code-2019"]
 	path = Advent-Of-Code-2019
 	url = git@github.com:Maheshkumar-novice/Advent-Of-Code-2019.git
+	branch = main
 [submodule "Advent-Of-Code-2021"]
 	path = Advent-Of-Code-2021
 	url = git@github.com:Maheshkumar-novice/Advent-Of-Code-2021.git
